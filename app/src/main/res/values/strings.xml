@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math Challenge Ultimate</string>
+    <string name="score_text">Score: 0</string>
+    <string name="challenge_text">Next Challenge: </string>
+</resources>
