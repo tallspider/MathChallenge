@@ -7,6 +7,12 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+/*
+Main (and only) activity of the app
+User starts game by clicking "Start" 
+After each answer is submitted a message will be displayed depending on whether the answer is correct
+The game ends after the player goes through either all of the messages for correct answers, or all of the messages for incorrect answers
+*/
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     private TextView scorePanel;
